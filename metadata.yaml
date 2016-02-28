@@ -1,0 +1,42 @@
+_repo: Letters-to-Sir-William-Windham-and-Mr-Pope_5132
+contributor:
+  author_of_introduction:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+creator:
+  author:
+    agent_name: Bolingbroke, Henry St. John, Viscount
+    aliases:
+    - Trot, John
+    - Bollingbroke, Lord
+    - Trott, John
+    - St. John, Henry, Viscount Bolingbroke
+    - Bolingbroke, Henry Saint-John, 1st Viscount
+    - Raleigh, W.
+    - Saint-John, Henry, Viscount Bolingbroke
+    - Bollingbroke, Henry St. John, Viscount
+    birthdate: 1678
+    deathdate: 1751
+    gutenberg_agent_id: '1709'
+    url: http://www.gutenberg.org/2009/agents/1709
+    wikipedia: http://en.wikipedia.org/wiki/Henry_St_John%2C_1st_Viscount_Bolingbroke
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Pope, Alexander, 1688-1744'
+- !lcsh 'Windham, William, 1750-1810'
+tableOfContents: Letter To Sir William Windham -- Letter To Alexander Pope.
+title: Letters to Sir William Windham and Mr. Pope
+url: http://www.gutenberg.org/ebooks/5132
