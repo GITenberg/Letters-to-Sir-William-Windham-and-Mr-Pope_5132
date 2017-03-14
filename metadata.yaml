@@ -1,5 +1,5 @@
 _repo: Letters-to-Sir-William-Windham-and-Mr-Pope_5132
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Morley, Henry
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '1355'
     url: http://www.gutenberg.org/2009/agents/1355
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bolingbroke, Henry St. John, Viscount
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1709
     wikipedia: http://en.wikipedia.org/wiki/Henry_St_John%2C_1st_Viscount_Bolingbroke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5132#Letters-to-Sir-William-Windham-and-Mr-Pope
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
