@@ -1,5 +1,5 @@
 _repo: Letters-to-Sir-William-Windham-and-Mr-Pope_5132
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   author_of_introduction:
     agent_name: Morley, Henry
@@ -43,6 +43,7 @@ subjects:
 - !lcc 'DA'
 - !lcsh 'Pope, Alexander, 1688-1744'
 - !lcsh 'Windham, William, 1750-1810'
+- GITenberg
 tableOfContents: Letter To Sir William Windham -- Letter To Alexander Pope.
 title: Letters to Sir William Windham and Mr. Pope
 url: http://www.gutenberg.org/ebooks/5132
